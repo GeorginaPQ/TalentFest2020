@@ -13,11 +13,11 @@ const ScreenContainer = styled.div`
 `;
 const HomeContainer = styled.div`
     background-color:#FFFFFF;
-	min-height:100vh;
 	width: 600px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	min-height: 100vh;
 `;
 const Header = styled.div`
 	background-color: white;
